@@ -1,0 +1,10 @@
+{
+  "item.firstmod.tin": "Tin Ingot",
+  "item.firstmod.raw_tin": "Raw Tin",
+
+  "block.firstmod.tin_block": "Block of Tin",
+  "block.firstmod.tin_ore": "Tin Ore",
+  "block.firstmod.deepslate_tin_ore": "Deepslate Tin Ore",
+
+  "creativemodetab.test_tab": "Mod Tab"
+}
